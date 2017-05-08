@@ -26,6 +26,12 @@
   max-height: 100%;
 }
 
+.container-height-4 {
+  height: 165px;
+  max-height: 100%;
+}
+
+
 .row::before,
 .row::after {
   content: "";
