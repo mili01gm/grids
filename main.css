@@ -45,15 +45,13 @@
 
 [class*="col-"]{
   float: left;
-  padding: 2%;
+  padding: 1%;
 }
 
 .col-4 {
-  width: 32.3333%;
-  margin: 0.3333%;
+  width: 33.3333%;
 }
 
 .col-12 {
   width: 99%;
-  margin: 0.5%;
 }
